@@ -1,5 +1,5 @@
 # Hitesh
-# B.Tech in Chemicsl Engineering | NIT Raipur | 5th Semester  
+# B.Tech in Chemical Engineering | NIT Raipur | 5th Semester  
 
  Passionate about Chemical Engineering. Currently, I'm enhancing my skill set and contributing to innovative projects that solve real-world problems.  
 
